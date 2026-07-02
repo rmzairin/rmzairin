@@ -11,7 +11,7 @@
 ## ⛩️ Tentang Saya
 
 ```yaml
-nama: Asep
+nama: Ruzma Khuzairin
 role: Full Stack Developer
 fokus_saat_ini: FastAPI + Knowledge Base Chatbot 🤖
 bahasa: Indonesia 🇮🇩
