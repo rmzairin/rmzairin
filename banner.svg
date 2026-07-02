@@ -96,7 +96,7 @@
     <text x="1000" y="270" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="22" fill="#ff6ec7" opacity="0.55">開発者</text>
 
     <!-- main title -->
-    <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-weight="700" font-size="46" fill="url(#neonText)" filter="url(#glow)" letter-spacing="4">RMZAIRIN</text>
+    <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-weight="700" font-size="46" fill="url(#neonText)" filter="url(#glow)" letter-spacing="4">RUZMA KHUZAIRIN</text>
     <text x="600" y="178" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="17" fill="#c9c3ff" letter-spacing="3" opacity="0.9">FULL STACK DEVELOPER × ANIME ENTHUSIAST</text>
   </g>
 
