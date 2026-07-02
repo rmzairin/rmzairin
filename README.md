@@ -67,15 +67,6 @@ alignment: Neutral Good — ships clean code, watches anime after deploy
 
 <br>
 
-## 🌐 Connect
-
-<div align="center">
-
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rmzairin)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmzairin)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
-
-</div>
 
 <div align="center">
 <img src="./banner.svg" width="100%"/>
