@@ -40,21 +40,16 @@ alignment: Neutral Good — ships clean code, watches anime after deploy
 
 ## 📊 Stats.exe
 
-<!-- <div align="center">
-
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rmzairin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&icon_color=7efff5&text_color=c9c3ff"/>
-<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmzairin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&text_color=c9c3ff"/>
-
-</div> -->
-
+<div align="center">
+<img height="165em" src="https://github-stats-extended.vercel.app/api?username=rmzairin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&icon_color=7efff5&text_color=c9c3ff"/>
+<img height="165em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=rmzairin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&text_color=c9c3ff"/>
+</div>
 <div align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=rmzairin&theme=tokyonight&hide_border=true&background=0d0221&ring=ff2e88&fire=ff6ec7&currStreakLabel=7efff5" />
 </div>
-
 <div align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rmzairin&theme=tokyo-night&bg_color=0d0221&color=7efff5&line=ff2e88&point=ffffff&hide_border=true" width="100%"/>
 </div>
-
 <br>
 
 ## 🐍 Contribution Snake
