@@ -1,57 +1,58 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=250&section=header&text=Hi%20There!%20👋&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Welcome%20to%20my%20profile&descAlignY=55&descSize=20" width="100%"/>
+<img src="./banner.svg" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=FF6B9D&center=true&vCenter=true&width=600&lines=Selamat+Datang+di+Profil+Saya!;Full+Stack+Developer+%E2%9A%A1;Otaku+%26+Coder+%F0%9F%8D%A5;Belajar+FastAPI+%26+Next.js" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=FF6EC7&center=true&vCenter=true&width=650&lines=%E3%82%88%E3%81%86%E3%81%93%E3%81%9D+%E2%80%94+Welcome+to+my+terminal;Full+Stack+Developer+%E2%9A%A1+FastAPI+%2B+Next.js;Building+AI+Chatbot+%26+Knowledge+Base+System+%F0%9F%A4%96;Otaku+by+night%2C+Coder+by+day+%F0%9F%8C%B8" alt="Typing SVG" />
+
+![Profile Views](https://komarev.com/ghpvc/?username=rmzairin&color=ff2e88&style=for-the-badge&label=TERMINAL+ACCESSED)
 
 </div>
 
 <br>
 
-## ⛩️ Tentang Saya
+## 👤 System.Info
 
 ```yaml
-nama: Ruzma Khuzairin
-role: Full Stack Developer
-fokus_saat_ini: FastAPI + Knowledge Base Chatbot 🤖
-bahasa: Indonesia 🇮🇩
-motto: "Code hard, watch anime harder"
+identity: rmzairin
+class: Full Stack Developer
+current_quest: Chatbot berbasis FastAPI + Knowledge Base Matching
+learning_arc: Next.js & Node.js ecosystem
+language: Bahasa Indonesia 🇮🇩
+alignment: Neutral Good — ships clean code, watches anime after deploy
 ```
 
-- 🔭 Sedang mengerjakan chatbot berbasis **FastAPI** dengan sistem **Knowledge Base Matching**
-- 🌱 Lagi belajar **Next.js** & ekosistem **Node.js**
-- 🎌 Suka anime, terutama genre shounen & slice of life
-- ⚡ Fun fact: lebih paham error message daripada plot twist anime
+- 🔭 **Sedang digarap:** Chatbot cerdas pakai **FastAPI**, dengan sistem **Knowledge Base Matching** buat jawab pertanyaan jadwal dokter/spesialis
+- 🌱 **Level up:** eksplorasi **Next.js** & **Node.js** buat sisi frontend
+- ⚔️ **Weapon of choice:** Python, sambil sesekali nyemplung ke JavaScript
+- 🎴 **Side quest:** anime marathon tiap malam minggu
 
 <br>
 
-## 🛠️ Tech Stack
+## ⚔️ Tech Arsenal
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,fastapi,js,nextjs,nodejs,docker,git,postgres,vscode&theme=dark&perline=9" />
 
 </div>
 
 <br>
 
-## 📊 GitHub Stats
+## 📊 Stats.exe
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=USERNAME_KAMU&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME_KAMU&layout=compact&theme=radical&hide_border=true"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=rmzairin&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&icon_color=7efff5&text_color=c9c3ff"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmzairin&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d0221&title_color=ff6ec7&text_color=c9c3ff"/>
 
 </div>
 
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=USERNAME_KAMU&theme=radical&hide_border=true" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=rmzairin&theme=tokyonight&hide_border=true&background=0d0221&ring=ff2e88&fire=ff6ec7&currStreakLabel=7efff5" />
+</div>
+
+<div align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rmzairin&theme=tokyo-night&bg_color=0d0221&color=7efff5&line=ff2e88&point=ffffff&hide_border=true" width="100%"/>
 </div>
 
 <br>
@@ -59,29 +60,23 @@ motto: "Code hard, watch anime harder"
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://raw.githubusercontent.com/USERNAME_KAMU/USERNAME_KAMU/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+<img src="https://raw.githubusercontent.com/rmzairin/rmzairin/output/github-contribution-grid-snake-dark.svg" width="100%"/>
 </div>
 
-> ⚠️ Snake animation ini butuh setup GitHub Action tambahan. Nanti aku kasih caranya di bawah.
+> Ini butuh 1x setup GitHub Action (lihat panduan di bawah 👇)
 
 <br>
 
-## 🌐 Connect With Me
+## 🌐 Connect
 
 <div align="center">
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/USERNAME_KAMU)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME_KAMU)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/rmzairin)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/rmzairin)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:email@kamu.com)
 
 </div>
 
-<br>
-
 <div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=USERNAME_KAMU&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" width="100%"/>
-
+<img src="./banner.svg" width="100%"/>
 </div>
