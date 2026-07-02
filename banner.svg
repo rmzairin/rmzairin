@@ -1,0 +1,104 @@
+<svg width="100%" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0d0221"/>
+      <stop offset="45%" stop-color="#190a35"/>
+      <stop offset="100%" stop-color="#2b0a4a"/>
+    </linearGradient>
+    <linearGradient id="sun" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#ff6ec7"/>
+      <stop offset="50%" stop-color="#ff2e88"/>
+      <stop offset="100%" stop-color="#7b2ff7"/>
+    </linearGradient>
+    <linearGradient id="neonText" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#7efff5"/>
+      <stop offset="50%" stop-color="#ff6ec7"/>
+      <stop offset="100%" stop-color="#a06bff"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="4" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+    <clipPath id="frame">
+      <rect width="1200" height="300" rx="14"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="300" fill="url(#bg)"/>
+
+    <!-- stars -->
+    <g fill="#ffffff">
+      <circle cx="60" cy="30" r="1.4" opacity="0.8"/>
+      <circle cx="140" cy="60" r="1" opacity="0.6"/>
+      <circle cx="220" cy="20" r="1.2" opacity="0.7"/>
+      <circle cx="980" cy="35" r="1.4" opacity="0.8"/>
+      <circle cx="1050" cy="70" r="1" opacity="0.6"/>
+      <circle cx="1120" cy="25" r="1.2" opacity="0.7"/>
+      <circle cx="850" cy="15" r="1" opacity="0.5"/>
+      <circle cx="320" cy="45" r="1" opacity="0.5"/>
+    </g>
+
+    <!-- retro sun -->
+    <circle cx="600" cy="150" r="72" fill="url(#sun)" opacity="0.9"/>
+    <g stroke="#0d0221" stroke-width="4">
+      <line x1="528" y1="168" x2="672" y2="168"/>
+      <line x1="524" y1="182" x2="676" y2="182"/>
+      <line x1="520" y1="196" x2="680" y2="196"/>
+      <line x1="518" y1="210" x2="682" y2="210"/>
+    </g>
+
+    <!-- grid horizon -->
+    <g stroke="#ff2e88" stroke-width="1.4" opacity="0.55">
+      <line x1="0" y1="230" x2="1200" y2="230"/>
+      <line x1="150" y1="230" x2="-100" y2="300"/>
+      <line x1="350" y1="230" x2="230" y2="300"/>
+      <line x1="550" y1="230" x2="510" y2="300"/>
+      <line x1="650" y1="230" x2="690" y2="300"/>
+      <line x1="850" y1="230" x2="970" y2="300"/>
+      <line x1="1050" y1="230" x2="1300" y2="300"/>
+    </g>
+    <g stroke="#7efff5" stroke-width="1" opacity="0.35">
+      <line x1="0" y1="245" x2="1200" y2="245"/>
+      <line x1="0" y1="262" x2="1200" y2="262"/>
+      <line x1="0" y1="280" x2="1200" y2="280"/>
+    </g>
+
+    <!-- sakura petals -->
+    <g fill="#ffb3d9" opacity="0.8">
+      <path d="M100 60 q6 -8 12 0 q-6 8 -12 0z"/>
+      <path d="M1080 110 q6 -8 12 0 q-6 8 -12 0z"/>
+      <path d="M950 200 q6 -8 12 0 q-6 8 -12 0z"/>
+      <path d="M180 200 q6 -8 12 0 q-6 8 -12 0z"/>
+      <path d="M1000 50 q6 -8 12 0 q-6 8 -12 0z"/>
+    </g>
+
+    <!-- katana silhouette, left -->
+    <g transform="translate(80,150) rotate(-25)" opacity="0.85">
+      <rect x="0" y="0" width="150" height="5" fill="#dfe8ff"/>
+      <rect x="150" y="-3" width="10" height="11" fill="#3a2a55"/>
+      <rect x="160" y="-6" width="6" height="17" fill="#2b1e3d"/>
+      <rect x="-12" y="-4" width="14" height="13" rx="3" fill="#ff2e88"/>
+    </g>
+    <!-- katana silhouette, right -->
+    <g transform="translate(1120,150) rotate(205)" opacity="0.85">
+      <rect x="0" y="0" width="150" height="5" fill="#dfe8ff"/>
+      <rect x="150" y="-3" width="10" height="11" fill="#3a2a55"/>
+      <rect x="160" y="-6" width="6" height="17" fill="#2b1e3d"/>
+      <rect x="-12" y="-4" width="14" height="13" rx="3" fill="#7efff5"/>
+    </g>
+
+    <!-- kanji accents -->
+    <text x="70" y="270" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="22" fill="#7efff5" opacity="0.55">侍 コード</text>
+    <text x="1000" y="270" font-family="'Hiragino Sans', 'Noto Sans JP', sans-serif" font-size="22" fill="#ff6ec7" opacity="0.55">開発者</text>
+
+    <!-- main title -->
+    <text x="600" y="140" text-anchor="middle" font-family="'Segoe UI', 'Trebuchet MS', sans-serif" font-weight="700" font-size="46" fill="url(#neonText)" filter="url(#glow)" letter-spacing="4">RMZAIRIN</text>
+    <text x="600" y="178" text-anchor="middle" font-family="'Segoe UI', sans-serif" font-size="17" fill="#c9c3ff" letter-spacing="3" opacity="0.9">FULL STACK DEVELOPER × ANIME ENTHUSIAST</text>
+  </g>
+
+  <rect x="1" y="1" width="1198" height="298" rx="14" fill="none" stroke="#ff2e88" stroke-width="1.5" opacity="0.5"/>
+</svg>
